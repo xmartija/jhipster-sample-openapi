@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "simpleBoot2",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "ZDVjZmM1MWEwMTBiYTAzODcwZmQ1NjA2ZTYyMTI0NjIxZDMyZjZmYmYyMDZmNWJkNmQ0YmNkNDFkZDUyZTgxYTlmNzFkMjI4NjVhMjYyMTA0NzliNzQxMzE2M2JiZTEwNjQyMzI0MzM3ODJiNWM5MjRjNGY3MjVmODJjYTNjODA="
+  },
+  "git-provider": "GitHub",
+  "git-company": "xmartija",
+  "repository-name": "jhipster-sample-openapi"
+}
